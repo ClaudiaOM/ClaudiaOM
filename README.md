@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudiaOM
-- 👀 I’m interested in image processing techniques with python
-- 🌱 I’m currently learning React and Django 
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me claudiaomtnez@gmail.com
 
