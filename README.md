@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudiaOM
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently improving my frontend developer skills 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me claudiaomtnez@gmail.com
 
